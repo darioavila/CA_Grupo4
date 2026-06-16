@@ -1,4 +1,4 @@
-# TP Integrador — Sistemas Operativos
+# TP Integrador — Computacion Aplicada
  
 **Universidad de Palermo**
  
