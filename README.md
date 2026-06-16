@@ -1,9 +1,11 @@
-TP Integrador — Sistemas Operativos
-Universidad de Palermo
-Grupo 4 — Integrantes
-
-Dario Avila
-Francisco Arca
-Carla Furini
-Nicolas Lannert
-Patrick Edouard Von Arx
+# TP Integrador — Sistemas Operativos
+ 
+**Universidad de Palermo**
+ 
+## Grupo 4 — Integrantes
+ 
+- Dario Avila
+- Francisco Arca
+- Carla Furini
+- Nicolas Lannert
+- Patrick Edouard Von Arx
